@@ -1,0 +1,22 @@
+@media (max-width: 1199px) {}
+@media (max-width: 991px) {
+  header .banner-content h1{
+    font-size: 23px;
+  }
+  footer .footer-top-section{
+    margin-left: 20%;
+  }
+  footer .footer-content-1st{
+    width: 100% !important;
+  }
+}
+@media (max-width: 767px) {
+  footer .footer-top-section{
+    margin-left: 10%;
+  }
+}
+@media (max-width: 575px) {
+  footer .footer-top-section{
+    margin-right: 3%;
+  }
+}
